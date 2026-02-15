@@ -21,3 +21,4 @@ Après comparaison des modèles via **MLflow** , le modèle **Random Forest** a 
 ## 👤 Auteur
 **Khadija ELBIARI**
 
+
