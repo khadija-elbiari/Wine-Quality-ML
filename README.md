@@ -1,4 +1,4 @@
-# Analyse et Prédiction de la Qualité du Vin Rouge 🍷
+# Analyse et Prédiction 
 
 ## 📝 Présentation du Projet
 Ce projet utilise le dataset "Vinho Verde" pour prédire la qualité du vin rouge (score de 0 à 10) à partir de 11 caractéristiques physico-chimiques.
@@ -20,5 +20,6 @@ Après comparaison des modèles via **MLflow** , le modèle **Random Forest** a 
 ***Status :** Modèle déployable pour la prédiction de qualité.
 ## 👤 Auteur
 **Khadija ELBIARI**
+
 
 
