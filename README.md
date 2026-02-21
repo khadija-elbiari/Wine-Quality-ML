@@ -2,6 +2,8 @@
 
 ## 📝 Présentation du Projet
 Ce projet utilise le dataset "Vinho Verde" pour prédire la qualité du vin rouge (score de 0 à 10) à partir de 11 caractéristiques physico-chimiques.
+<img width="1024" height="798" alt="download (2)" src="https://github.com/user-attachments/assets/04628e5e-f22b-4d7f-9f50-21f940f9fc7d" />
+<img width="695" height="394" alt="download (1)" src="https://github.com/user-attachments/assets/a5cdde10-d086-430d-9056-092f92d2144f" />
 
 ## 🛠️ Méthodologie (Pipeline ML)
 Conformément au cahier des charges, le projet suit 4 phases :
@@ -20,6 +22,7 @@ Après comparaison des modèles via **MLflow** , le modèle **Random Forest** a 
 ***Status :** Modèle déployable pour la prédiction de qualité.
 ## 👤 Auteur
 **Khadija ELBIARI**
+
 
 
 
